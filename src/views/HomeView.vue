@@ -29,6 +29,11 @@ export default {
   background-color: rgb(161, 230, 165);
 }
 
+.chat-container{
+  margin-top: 30%;
+
+}
+
 input {
   padding: 10px;
   width: 300px;
